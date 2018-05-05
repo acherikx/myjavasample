@@ -1,1 +1,2 @@
 This is first commit of Relae_1 branch
+add + commit in single commnda ==> git commit -a -m
